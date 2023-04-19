@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chiril</h1>
+<h1 align="center">What's up👋, I'm Chiril</h1>
 <h3 align="center">A software developer from Moldova</h3>
 
 - 🌱 I’m currently learning **Kotlin, Android**
