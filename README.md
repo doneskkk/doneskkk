@@ -5,7 +5,7 @@
 - 👨‍💻 I'm also improving my skills in **Java**
 
 <h3 align="left">Connect with me:</h3>
- __chirildones@gmail.com__
+chirildones@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/chiril-dones-b821a4245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiril-dones-b821a4245" height="30" width="40" /></a>
 <a href="https://instagram.com/doneskk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doneskk" height="30" width="40" /></a>
