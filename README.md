@@ -1,7 +1,7 @@
 <h1 align="center">What's up👋, I'm Chiril</h1>
 <h3 align="center">A software developer from Moldova</h3>
 
-- 🌱 I’m currently learning **Kotlin, Android**
+- 🌱 I’m currently learning **Go**
 - 👨‍💻 I'm also improving my skills in **Java**
 
 <h3 align="left">Connect with me:</h3>
