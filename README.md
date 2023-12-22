@@ -1,7 +1,7 @@
 <h1 align="center">What's up👋, I'm Chiril</h1>
 <h3 align="center">A software developer from Moldova</h3>
 
-- :open_hands: Open for offers 
+- :open_hands: Open for job offers 
 - 🌱 I’m currently learning **Go**
 - 👨‍💻 I'm also improving my skills in **Java**
 
